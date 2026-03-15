@@ -115,19 +115,12 @@ Terraform provisions AWS infrastructure automatically instead of manual console 
 
 
 ```
-
 Terraform Code
-
-&#x20;     ↓
-
+    ↓
 Terraform CLI
-
-&#x20;     ↓
-
+    ↓
 AWS API
-
-&#x20;     ↓
-
+    ↓
 EC2 + S3 created
 
 ```
